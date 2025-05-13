@@ -87,3 +87,5 @@ spring.ai.ollama.base-url=http://localhost:11434
 spring.ai.model.chat=ollama
 spring.ai.ollama.chat.options.model=deepseek
 ```
+
+[This project is featured in the article Building AI-Powered Applications with Spring AI on Medium.](https://lakithaprabudh.medium.com/bringing-ai-to-java-why-spring-ai-is-a-game-changer-7b9c9e763d18)
